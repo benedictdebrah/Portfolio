@@ -26,22 +26,23 @@ const Playground = () => (
           <img src='/carbon.png' />
         </section>
         <p>
-          Welcome to my projects page, where I try to explain everything that I
-          do. Feel free to browse through the projects and experiment with them.
+        Hey there! Welcome to my cool projects page, where I try to explain some of the stuff I've worked on.
+         Take a look around, and if you have questions, hit me up. 
         </p>
 
         <div className='contentWrapper'>
         <Card
-            link='https://github.com/HenriPett/Churn-prediction'
+            link='https://www.tradingview.com/u/KwamePuni/'
             className='external mainCard'
-            title='Churn Prediction'
-            description='Notebook showing and explaining how I was able to predict if a person will churn or not.'
-            type='Repository'
+            title='FX Market Analysis'
+            description="My TradingView hangout where I spill the beans on market vibes! Check out my thoughts and let's navigate these charts together. 📈💡."
+
+            type='Link'
             target='_blank'
           />
 
           <Card
-            link='https://github.com/HenriPett/MNIST-project-with-save'
+            link='#'
             className='external mainCard'
             title='MNIST Project'
             description='MNIST project is a model with hand-written letters recognition.'
@@ -50,7 +51,7 @@ const Playground = () => (
           />
 
           <Card
-            link='https://github.com/HenriPett/Trafficsignreco'
+            link='#'
             className='external mainCard'
             title='Traffic Sign Recognition'
             description='Traffic Sign Recognition with convolutional neural networks. They are trained with images of traffic signs.'
@@ -59,7 +60,7 @@ const Playground = () => (
           />
 
           <Card
-            link='https://github.com/HenriPett/SVMmodel'
+            link='#'
             className='external mainCard'
             title='Explained SVM Model'
             description='SVM model explained with steps in Google Colab.'
@@ -67,68 +68,7 @@ const Playground = () => (
             target='_blank'
           />
 
-          <Card
-            link='https://github.com/HenriPett/CNNmodel'
-            className='external mainCard'
-            title='Explained CNN Model'
-            description='CNN model explained with steps in Google Colab.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/Linkedin_Crawler'
-            className='external mainCard'
-            title='LinkedIn Crawler'
-            description='LinkedIn Crawler to extract data from LinkedIn. With Python/Selenium.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/RemoteSensing_Study'
-            className='external mainCard'
-            title='Remote Sensing Study'
-            description='Remote Sensing Study for college research. I have made it at Google Colab.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/MachineLearning_Study'
-            className='external mainCard'
-            title='Machine Learning Study'
-            description='Machine Learning Study for college research. I have made it at Google Colab.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/GolangBot'
-            className='external mainCard'
-            title='Discord Go Bot'
-            description='Simple Bot made at Codecon 2021 event, Golang Workshop.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/the-traveller-bot'
-            className='external mainCard'
-            title='The Traveller Discord Bot'
-            description='Discord Bot was made to send messages at 7:30 AM/PM. Created with Serverless, cron, Lambda AWS.'
-            type='Repository'
-            target='_blank'
-          />
-
-          <Card
-            link='https://github.com/HenriPett/Dash-NYC-Airbnb-interactive-plot'
-            className='external mainCard'
-            title='Dashboard NYC Airbnb data made with Dash/Plotly'
-            description="It's an interactive Dashboard that I made with Dash/Plotly"
-            type='Repository'
-            target='_blank'
-          />
+        
         </div>
       </Main>
     </MainWrapper>

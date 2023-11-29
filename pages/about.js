@@ -45,18 +45,14 @@ const About = () => (
               sustainable results. I possess a comprehensive technical skill set, including proficiency in Python
                programming, hands-on experience with Deep Learning/Machine Learning frameworks, a strong command 
                of SQL, and familiarity with AWS Cloud services. My portfolio encompasses diverse projects in predictive modeling,
-             data analysis, production model deployment, and advanced statistical modeling.
+             data analysis,  model deployment, and advanced statistical modeling.
             </p>
             <p>
               Fluent in English and with basic knowledge of French, I consistently endeavor to expand both my linguistic and technical abilities.
             </p>
-            <p>
-              Recently, I have ventured deeper into the exploration of Reinforcement Learning, a crucial frontier in Artificial Intelligence. 
-              Specifically, I've concentrated on the use of actor-critic methods in my latest project. Actor-critic methods, which 
-              constitute a vital component of modern Reinforcement Learning algorithms, provide an optimal balance between exploration and
-              exploitation in complex decision-making processes. This deep dive into adaptive algorithms has not only expanded my
-              expertise but also provided a fresh impetus to my commitment towards driving innovative solutions in AI.
-            </p> 
+            <p>Recently, I have delved deeper into trading the financial markets, leveraging my experience and skills in data analysis and prediction. I am actively exploring the application
+             of reinforcement learning techniques in the financial markets
+              as part of my ongoing journey. </p> 
           </section>
         </div>
       </Main>

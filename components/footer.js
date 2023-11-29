@@ -1,22 +1,22 @@
 const Footer = () => (
   <footer>
-    <a href="https://read.cv/henripett" rel="noopener noreferrer">
+    <a href="#" rel="noopener noreferrer">
       <small>Get Resume © </small>
     </a>
     <div>
       <ul className="footerList">
         <li className="footerLi">
           <a
-            href="https://henriquepett.medium.com/"
+            href="https://t.me/breakingbreadfx"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <small>Medium</small>
+            <small>Trading Community</small>
           </a>
         </li>
         <li className="footerLi">
           <a
-            href="https://github.com/HenriPett"
+            href="https://github.com/benedictdebrah"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -25,16 +25,16 @@ const Footer = () => (
         </li>
         <li className="footerLi">
           <a
-            href="https://www.instagram.com/henr_pett"
+            href="https://www.credential.net/profile/benedictdebrah/wallet#gs.1jrdu2"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <small>Instagram </small>
+            <small>Certifications </small>
           </a>
         </li>
         <li className="footerLi">
           <a
-            href="https://www.linkedin.com/in/henrique-pett/"
+            href="https://www.linkedin.com/in/kwamepuni/"
             target="_blank"
             rel="noopener noreferrer"
           >
