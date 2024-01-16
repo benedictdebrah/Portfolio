@@ -14,7 +14,7 @@ export default function Writings() {
         <Metadata
           title="Writings"
           description="Where I try to think and explain about software and technology."
-          name="Henrique Pett"
+          name="Benedict D."
         />
         <Main>
           <Link href="/">
