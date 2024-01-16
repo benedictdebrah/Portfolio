@@ -20,9 +20,9 @@ const About = () => (
         </Link>
         <h1 className='heading2Xl'>Hey,</h1>
         <div className='contentWrapper'>
-        <section>
-    <img src='/me2.jpg' style={{ 'border-radius': '20px', 'width': '400px', 'height': '400px' }} />
-</section>
+        <section className='about_img_container center_sm'>
+         <img src='/me2.jpg' style={{ 'border-radius': '50%', 'width': '400px', 'height': '400px' }} />
+        </section>
 
           <section>
             <p>

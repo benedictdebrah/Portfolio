@@ -3,6 +3,7 @@ import "../styles/theme.css";
 import "../styles/fluiditype.css";
 import "../styles/styles.css";
 import "../styles/equalizer.css";
+import "../styles/responsive.css"
 import LoadingScreen from "../components/loadingScreen";
 
 export default function MyApp({ Component, pageProps }) {

@@ -9,7 +9,8 @@
     monospace;
   --dark-color-bg: #131313;
   --light-color-text: #e2e2e2;
-  --light-color-bg: #e2e2e2;
+  /* --light-color-bg: #e2e2e2; */
+  --light-color-bg: white;
   --dark-color-text: #050038;
   --selection-color-bg: #3f53d9;
   --selection-color-text: #ffd707;

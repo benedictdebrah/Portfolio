@@ -1,9 +1,9 @@
 const Footer = () => (
   <footer>
-    <a href="#" rel="noopener noreferrer">
+    <a className="resume_link" href="#" rel="noopener noreferrer">
       <small>Get Resume © </small>
     </a>
-    <div>
+    <div className="footer_container">
       <ul className="footerList">
         <li className="footerLi">
           <a
