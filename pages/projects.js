@@ -14,7 +14,7 @@ const Playground = () => (
       <Metadata
         title='Projects'
         description='My projects portfolio.'
-        name='Henrique Pett'
+        name='Benedict D.'
       />
 
       <Main display>
